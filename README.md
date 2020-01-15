@@ -20,6 +20,7 @@ After:
 
 ## Links
 - [Telegram](https://t.me/DanGLES3)
+- [Github](https://github.com/DanGLES3/Oxygen-OS-gesture-bar-for-AOSP)
 
 
 ## Changelog
