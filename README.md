@@ -1,10 +1,10 @@
 # Barless
 
-Remove gesture bar but keep the system and keyboard gap
+Remove gesture bar but keep the system and keyboard gap.
 
 ## Compatibility
 
-Android 10 AOSP roms only
+Android 10 AOSP roms only.
 
 ## Why?
 
