@@ -1,28 +1,15 @@
-# Oxygen OS Gesture Bar for AOSP
+# Barless
 
-This module will change the Stock Android 10 gesture bar (when using the android 10 gestures) to the larger Oxygen OS one
-## Requirements
-- Android 10 only
-- Magisk 19+
+Remove gesture bar but keep the system and keyboard gap
 
-Before:
+## Compatibility
 
-![](https://i.imgur.com/3GIKuoE.jpg)
+Android 10 AOSP roms only
 
-After:
+## Why?
 
-![](https://i.imgur.com/8AyySwy.jpg)
+My home bar got burned in so I wanted to get rid of it to prevent any further damage but I hated that other modules moved the keyboard down and made it hard to type.
 
-## Installation
-1. Flash this module.
-2. Reboot.
-3. Enjoy!
+## Thanks
 
-## Links
-- [Telegram](https://t.me/DanGLES3)
-- [Github](https://github.com/DanGLES3/Oxygen-OS-gesture-bar-for-AOSP)
-
-
-## Changelog
-### v1.0
-- Initial release
+Thanks to DanGLES3 for the base module.
